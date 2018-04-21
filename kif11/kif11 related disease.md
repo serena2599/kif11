@@ -153,11 +153,14 @@ All three allelic mutations
 are predicted to cause changes to the KIF11 protein product(Table 1). 
 
 
+结果显示kif11的杂合突变在MLCRD中占了很大的比重。
 
-we therefore assessed KIF11 for mutations in other MLCRD cases.
+所以我们用sanger测序的方法对另外九个MLCRD家系中其他的kif11突变做了评估。
+
+![](2018-04-21-09-20-19.png)
 
 
-In these probands, sequencing revealed seven more independent heterozygous KIF11 variants: 
+在这些家系中又鉴定出了7个kif11杂合突变: 
 - three frameshift insertions and deletions
 - two missense substitutions
 - an acceptor splice-site substitution
@@ -167,9 +170,35 @@ In these probands, sequencing revealed seven more independent heterozygous KIF11
 
 
 
-In total,weidentified KIF11 mutations in 10 of the 14 MLCRD-affected families examined.
+
+
+我们从14个MLCRD家系中一共鉴定出10个KIF11突变
+
 
 ![](2018-04-11-18-55-07.png)
 ![](2018-04-11-18-55-43.png)
+
+
+
+在小脑、眼睛异常又没有水肿的6个独立家庭中又鉴定出5个独立的突变位点：  
+2个错义突变和3个其他的突变，包括之前鉴定出来的无义突变（p.Arg387*）。
+
+
+###所以，我们一共在15个家庭27个个体中鉴定出14个突变位点。
+
+![](2018-04-21-14-53-30.png)
+
+
+
+其中7个等位基因突变，包括2个无义突变和5个移码突变（包括插入和删除），被认为可以使KIF11提前成熟结束转录。
+
+另外有一个移码突变是在second-to-last外显子上的单碱基缺失，造成了最后50个氨基酸的替代，并且向后多翻译了12个氨基酸。
+
+两个剪切位点的突变 are both predicted in HSF (Human Splicing Finder v.2.4.1) to have significant impact on the splicing of the 5 kb transcript (Table S6).
+
+![](2018-04-21-11-08-13.png)
+
+
+
 
 
