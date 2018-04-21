@@ -199,6 +199,51 @@ are predicted to cause changes to the KIF11 protein product(Table 1).
 ![](2018-04-21-11-08-13.png)
 
 
+有四个错义突变改变了保守区的氨基酸,并且通过SIFT and PolyPhen预测改变了蛋白的功能。
+其中3个(p.Phe144Leu, p.Arg234Cys, and p.Ser235Cys) 位于马达蛋白的马达区域，另外1个(p.Arg944Cys)位于C端的bimC box区。
+
+![](2018-04-21-15-26-56.png)
 
 
+###重要网址：
+- 1000 Genomes Project,http://www.1000genomes.org, 有不同病人测序的结果，可以查找病人中的突变。
+- Consensus Coding Sequence Project (CCDS) project, http://www. ncbi.nlm.nih.gov/projects/CCDS/
+- dbSNP, http://www.ncbi.nlm.nih.gov/projects/SNP/，NCBI中搜索SNP。
+- Human Splicing Finder, http://www.umd.be/HSF/ 
+- Online Mendelian Inheritance in man (OMIM), http://www.omim.org/ ，基因分类及基因疾病相关信息。
+- PolyPhen, http://genetics.bwh.harvard.edu/pph2/ 
+- SIFT, http://sift.jcvi.org/
 
+
+###kif研究进展介绍
+http://www.omim.org/entry/148760?search=KIF11&highlight=kif11
+
+
+####这篇文章中新鉴定出的突变：
+- a 1159C-T transition in exon 10，arg387-to-ter ( R387X) substitution
+![](2018-04-21-20-14-36.png)
+
+- a 2-bp deletion (1039delCT) in exon 9，347，  frameshift and premature termination codon.
+
+- a de novo 2830C-T transition in exon 3,arg944-to-cys (R944C) ，bimC box.
+
+- *a 1-bp deletion (1592delA) in exon 13,frameshift and premature termination codon.*
+- a 2547+2T-C transition in intron 18,premature termination.
+- *a 704C-G transversion in exon 7,ser235-to-cys (S235C) substitution at a highly conserved residue within the motor domain.* 
+
+
+####其他文章中鉴定出的位点：
+Mirzaa et al. (2014)，Congenital microcephaly and chorioretinopathy due to de novo heterozygous KIF11 mutations: five novel mutations and review of the literature
+
+- a de novo 2-bp deletion (c.2300_2301delTT; NM_004523.3) in exon 28,Phe767SerfsTer8， frameshift and premature termination.
+-  a de novo mutation (c.790-1G-A) ,abolish the splice donor site of exons 7-8.
+
+Robitaille et al. (2014),Phenotypic overlap between familial exudative vitreoretinopathy and microcephaly, lymphedema, and chorioretinal dysplasia caused by KIF11 mutations
+
+- a heterozygous glu470-to-ter (E470X) substitution
+- *an intronic mutation (c.790-1G-T)* 
+
+
+Hu et al. (2016),KIF11 mutations are a common cause of autosomal dominant familial exudative vitreoretinopathy
+
+- a c.2230C-T transition,gln744-to-ter (Q744X) substitution.
