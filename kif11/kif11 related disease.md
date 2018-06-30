@@ -258,3 +258,8 @@ Hu et al. (2016),KIF11 mutations are a common cause of autosomal dominant famili
 
 
 
+
+#KIF11 mutations are a common cause of autosomal dominant familial exudative vitreoretinopathy
+
+
+这篇文章中鉴定出4个kif11突变位点：c.131_132dupAT (p.P45Ifs*92), c.2230C>T (p.Q744*), c.2863C>T (p.Q955*) and c.2952_2955delGCAG (p.G985Ifs*6) ，其中2个位无义突变，2个位移码突变，
